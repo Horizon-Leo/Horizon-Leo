@@ -60,25 +60,6 @@
 <tr><td>
   
 
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>zlc の 第二大脑正在施工中。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 18 岁！</a> - 2023-02-25
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
 * <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
@@ -93,20 +74,6 @@
 <tr><td>
 
 ### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
 
@@ -129,46 +96,11 @@
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
-```text
-🌞 Morning                478 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-🌆 Daytime                657 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
-🌃 Evening                608 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-🌙 Night                  312 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Wednesday                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Thursday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Friday                   579 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Saturday                 188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Sunday                   306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   15 hrs 37 mins      ████████████████░░░░░░░░░   62.11 % 
-Markdown                 5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 9 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      25 hrs 9 mins       █████████████████████████   100.00 % 
-```
 
 
- Last Updated on 24/01/2024 01:22:25 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
