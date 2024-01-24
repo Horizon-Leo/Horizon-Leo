@@ -17,19 +17,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/"><img src="" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
-  
+ 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="" />
@@ -59,19 +47,6 @@
 
 <tr><td>
   
-
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html' target='_blank'>npm</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html' target='_blank'>pnpm</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html' target='_blank'>yarn</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html' target='_blank'>Vscode 权威指南</a> - 2023-12-08
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
 
 ### 🤾‍♂️ Funny Soul
 
